@@ -1,0 +1,279 @@
+2025-03-08 20:04:09,978 - INFO - Starting secure federated learning
+2025-03-08 20:04:09,978 - INFO - Security settings: HE=True, DP=True, ZKP=True
+2025-03-08 20:04:09,978 - INFO - Starting server with command: /opt/anaconda3/bin/python scripts/federated_server.py --num_rounds 5 --min_clients 6 --fraction_fit 1.0 --fraction_evaluate 1.0 --use_homomorphic_encryption --use_differential_privacy --use_zero_knowledge_proofs
+2025-03-08 20:04:12,992 - INFO - Server: /opt/anaconda3/bin/python: can't open file '/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/scripts/federated_server.py': [Errno 2] No such file or directory
+2025-03-08 20:04:17,998 - INFO - Starting client for subject 2 with command: /opt/anaconda3/bin/python scripts/federated_client.py --subject_id 2 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:04:18,032 - INFO - Client-2: /opt/anaconda3/bin/python: can't open file '/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/scripts/federated_client.py': [Errno 2] No such file or directory
+2025-03-08 20:04:20,015 - INFO - Starting client for subject 3 with command: /opt/anaconda3/bin/python scripts/federated_client.py --subject_id 3 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:04:20,058 - INFO - Client-3: /opt/anaconda3/bin/python: can't open file '/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/scripts/federated_client.py': [Errno 2] No such file or directory
+2025-03-08 20:04:22,036 - INFO - Starting client for subject 4 with command: /opt/anaconda3/bin/python scripts/federated_client.py --subject_id 4 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:04:22,074 - INFO - Client-4: /opt/anaconda3/bin/python: can't open file '/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/scripts/federated_client.py': [Errno 2] No such file or directory
+2025-03-08 20:04:24,052 - INFO - Starting client for subject 5 with command: /opt/anaconda3/bin/python scripts/federated_client.py --subject_id 5 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:04:24,083 - INFO - Client-5: /opt/anaconda3/bin/python: can't open file '/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/scripts/federated_client.py': [Errno 2] No such file or directory
+2025-03-08 20:04:26,062 - INFO - Starting client for subject 6 with command: /opt/anaconda3/bin/python scripts/federated_client.py --subject_id 6 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:04:26,102 - INFO - Client-6: /opt/anaconda3/bin/python: can't open file '/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/scripts/federated_client.py': [Errno 2] No such file or directory
+2025-03-08 20:04:28,080 - INFO - Starting client for subject 7 with command: /opt/anaconda3/bin/python scripts/federated_client.py --subject_id 7 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:04:28,117 - INFO - Client-7: /opt/anaconda3/bin/python: can't open file '/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/scripts/federated_client.py': [Errno 2] No such file or directory
+2025-03-08 20:04:30,096 - INFO - Starting client for subject 8 with command: /opt/anaconda3/bin/python scripts/federated_client.py --subject_id 8 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:04:30,135 - INFO - Client-8: /opt/anaconda3/bin/python: can't open file '/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/scripts/federated_client.py': [Errno 2] No such file or directory
+2025-03-08 20:04:32,115 - INFO - Starting client for subject 11 with command: /opt/anaconda3/bin/python scripts/federated_client.py --subject_id 11 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:04:32,153 - INFO - Client-11: /opt/anaconda3/bin/python: can't open file '/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/scripts/federated_client.py': [Errno 2] No such file or directory
+2025-03-08 20:04:34,132 - INFO - Starting client for subject 13 with command: /opt/anaconda3/bin/python scripts/federated_client.py --subject_id 13 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:04:34,162 - INFO - Client-13: /opt/anaconda3/bin/python: can't open file '/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/scripts/federated_client.py': [Errno 2] No such file or directory
+2025-03-08 20:04:36,148 - INFO - Starting client for subject 14 with command: /opt/anaconda3/bin/python scripts/federated_client.py --subject_id 14 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:04:36,182 - INFO - Client-14: /opt/anaconda3/bin/python: can't open file '/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/scripts/federated_client.py': [Errno 2] No such file or directory
+2025-03-08 20:04:38,160 - INFO - Starting client for subject 15 with command: /opt/anaconda3/bin/python scripts/federated_client.py --subject_id 15 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:04:38,198 - INFO - Client-15: /opt/anaconda3/bin/python: can't open file '/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/scripts/federated_client.py': [Errno 2] No such file or directory
+2025-03-08 20:04:40,176 - INFO - Starting client for subject 16 with command: /opt/anaconda3/bin/python scripts/federated_client.py --subject_id 16 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:04:40,210 - INFO - Client-16: /opt/anaconda3/bin/python: can't open file '/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/scripts/federated_client.py': [Errno 2] No such file or directory
+2025-03-08 20:04:42,190 - INFO - Starting client for subject 17 with command: /opt/anaconda3/bin/python scripts/federated_client.py --subject_id 17 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:04:42,239 - INFO - Client-17: /opt/anaconda3/bin/python: can't open file '/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/scripts/federated_client.py': [Errno 2] No such file or directory
+2025-03-08 20:04:44,207 - INFO - Client for subject 2 completed
+2025-03-08 20:04:44,208 - INFO - Client for subject 3 completed
+2025-03-08 20:04:44,208 - INFO - Client for subject 4 completed
+2025-03-08 20:04:44,209 - INFO - Client for subject 5 completed
+2025-03-08 20:04:44,209 - INFO - Client for subject 6 completed
+2025-03-08 20:04:44,209 - INFO - Client for subject 7 completed
+2025-03-08 20:04:44,209 - INFO - Client for subject 8 completed
+2025-03-08 20:04:44,209 - INFO - Client for subject 11 completed
+2025-03-08 20:04:44,209 - INFO - Client for subject 13 completed
+2025-03-08 20:04:44,210 - INFO - Client for subject 14 completed
+2025-03-08 20:04:44,210 - INFO - Client for subject 15 completed
+2025-03-08 20:04:44,210 - INFO - Client for subject 16 completed
+2025-03-08 20:04:44,210 - INFO - Client for subject 17 completed
+2025-03-08 20:04:44,210 - INFO - Server completed successfully
+2025-03-08 20:04:44,210 - INFO - Analyzing federated learning results
+2025-03-08 20:04:44,232 - INFO - Global metrics summary:
+2025-03-08 20:04:44,235 - INFO -   train_loss: mean=0.9705, final=1.0171
+2025-03-08 20:04:44,236 - INFO -   train_accuracy: mean=0.8502, final=0.8503
+2025-03-08 20:04:44,236 - INFO -   val_loss: mean=1.8418, final=1.9230
+2025-03-08 20:04:44,236 - INFO -   val_accuracy: mean=0.4639, final=0.4496
+2025-03-08 20:04:44,236 - INFO -   test_loss: mean=1.6998, final=1.5740
+2025-03-08 20:04:44,236 - INFO -   test_accuracy: mean=0.6254, final=0.6230
+2025-03-08 20:04:44,237 - INFO - Analysis completed and reports generated
+2025-03-08 20:08:50,362 - INFO - Starting secure federated learning
+2025-03-08 20:08:50,362 - INFO - Security settings: HE=True, DP=True, ZKP=True
+2025-03-08 20:08:50,362 - INFO - Starting server with command: /opt/anaconda3/bin/python federated_server.py --num_rounds 5 --min_clients 6 --fraction_fit 1.0 --fraction_evaluate 1.0 --use_homomorphic_encryption --use_differential_privacy --use_zero_knowledge_proofs
+2025-03-08 20:08:55,327 - INFO - Server: Traceback (most recent call last):
+2025-03-08 20:08:55,327 - INFO - Server: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_server.py", line 19, in <module>
+2025-03-08 20:08:55,327 - INFO - Server: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:08:55,327 - INFO - Server: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:08:58,378 - INFO - Starting client for subject 2 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 2 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:09:00,388 - INFO - Starting client for subject 3 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 3 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:09:02,398 - INFO - Starting client for subject 4 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 4 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:09:02,534 - INFO - Client-2: Traceback (most recent call last):
+2025-03-08 20:09:02,535 - INFO - Client-2: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:09:02,535 - INFO - Client-2: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:09:02,535 - INFO - Client-2: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:09:04,083 - INFO - Client-3: Traceback (most recent call last):
+2025-03-08 20:09:04,083 - INFO - Client-3: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:09:04,083 - INFO - Client-3: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:09:04,084 - INFO - Client-3: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:09:04,408 - INFO - Starting client for subject 5 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 5 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:09:06,147 - INFO - Client-4: Traceback (most recent call last):
+2025-03-08 20:09:06,147 - INFO - Client-4: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:09:06,147 - INFO - Client-4: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:09:06,147 - INFO - Client-4: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:09:06,415 - INFO - Starting client for subject 6 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 6 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:09:08,033 - INFO - Client-5: Traceback (most recent call last):
+2025-03-08 20:09:08,033 - INFO - Client-5: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:09:08,033 - INFO - Client-5: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:09:08,033 - INFO - Client-5: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:09:08,427 - INFO - Starting client for subject 7 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 7 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:09:10,100 - INFO - Client-6: Traceback (most recent call last):
+2025-03-08 20:09:10,101 - INFO - Client-6: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:09:10,101 - INFO - Client-6: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:09:10,101 - INFO - Client-6: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:09:10,431 - INFO - Starting client for subject 8 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 8 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:09:12,011 - INFO - Client-7: Traceback (most recent call last):
+2025-03-08 20:09:12,011 - INFO - Client-7: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:09:12,011 - INFO - Client-7: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:09:12,011 - INFO - Client-7: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:09:12,434 - INFO - Starting client for subject 11 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 11 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:09:14,013 - INFO - Client-8: Traceback (most recent call last):
+2025-03-08 20:09:14,013 - INFO - Client-8: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:09:14,013 - INFO - Client-8: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:09:14,013 - INFO - Client-8: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:09:14,438 - INFO - Starting client for subject 13 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 13 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:09:15,994 - INFO - Client-11: Traceback (most recent call last):
+2025-03-08 20:09:15,995 - INFO - Client-11: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:09:15,995 - INFO - Client-11: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:09:15,995 - INFO - Client-11: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:09:16,446 - INFO - Starting client for subject 14 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 14 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:09:17,991 - INFO - Client-13: Traceback (most recent call last):
+2025-03-08 20:09:17,991 - INFO - Client-13: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:09:17,991 - INFO - Client-13: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:09:17,991 - INFO - Client-13: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:09:18,453 - INFO - Starting client for subject 15 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 15 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:09:19,976 - INFO - Client-14: Traceback (most recent call last):
+2025-03-08 20:09:19,976 - INFO - Client-14: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:09:19,976 - INFO - Client-14: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:09:19,976 - INFO - Client-14: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:09:20,462 - INFO - Starting client for subject 16 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 16 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:09:21,992 - INFO - Client-15: Traceback (most recent call last):
+2025-03-08 20:09:21,992 - INFO - Client-15: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:09:21,992 - INFO - Client-15: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:09:21,992 - INFO - Client-15: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:09:22,469 - INFO - Starting client for subject 17 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 17 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:09:23,988 - INFO - Client-16: Traceback (most recent call last):
+2025-03-08 20:09:23,988 - INFO - Client-16: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:09:23,988 - INFO - Client-16: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:09:23,988 - INFO - Client-16: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:09:24,477 - INFO - Client for subject 2 completed
+2025-03-08 20:09:24,477 - INFO - Client for subject 3 completed
+2025-03-08 20:09:24,477 - INFO - Client for subject 4 completed
+2025-03-08 20:09:24,477 - INFO - Client for subject 5 completed
+2025-03-08 20:09:24,478 - INFO - Client for subject 6 completed
+2025-03-08 20:09:24,478 - INFO - Client for subject 7 completed
+2025-03-08 20:09:24,478 - INFO - Client for subject 8 completed
+2025-03-08 20:09:24,478 - INFO - Client for subject 11 completed
+2025-03-08 20:09:24,478 - INFO - Client for subject 13 completed
+2025-03-08 20:09:24,478 - INFO - Client for subject 14 completed
+2025-03-08 20:09:24,478 - INFO - Client for subject 15 completed
+2025-03-08 20:09:24,478 - INFO - Client for subject 16 completed
+2025-03-08 20:09:25,971 - INFO - Client-17: Traceback (most recent call last):
+2025-03-08 20:09:25,971 - INFO - Client-17: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:09:25,971 - INFO - Client-17: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:09:25,971 - INFO - Client-17: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:09:26,400 - INFO - Client for subject 17 completed
+2025-03-08 20:09:26,401 - INFO - Server completed successfully
+2025-03-08 20:09:26,401 - INFO - Analyzing federated learning results
+2025-03-08 20:09:26,413 - INFO - Global metrics summary:
+2025-03-08 20:09:26,414 - INFO -   train_loss: mean=0.9705, final=1.0171
+2025-03-08 20:09:26,415 - INFO -   train_accuracy: mean=0.8502, final=0.8503
+2025-03-08 20:09:26,415 - INFO -   val_loss: mean=1.8418, final=1.9230
+2025-03-08 20:09:26,416 - INFO -   val_accuracy: mean=0.4639, final=0.4496
+2025-03-08 20:09:26,416 - INFO -   test_loss: mean=1.6998, final=1.5740
+2025-03-08 20:09:26,416 - INFO -   test_accuracy: mean=0.6254, final=0.6230
+2025-03-08 20:09:26,417 - INFO - Analysis completed and reports generated
+2025-03-08 20:11:45,015 - INFO - Starting secure federated learning
+2025-03-08 20:11:45,015 - INFO - Security settings: HE=True, DP=True, ZKP=True
+2025-03-08 20:11:45,015 - INFO - Starting server with command: /opt/anaconda3/bin/python federated_server.py --num_rounds 5 --min_clients 6 --fraction_fit 1.0 --fraction_evaluate 1.0 --use_homomorphic_encryption --use_differential_privacy --use_zero_knowledge_proofs
+2025-03-08 20:11:49,640 - INFO - Server: Traceback (most recent call last):
+2025-03-08 20:11:49,640 - INFO - Server: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_server.py", line 34, in <module>
+2025-03-08 20:11:49,640 - INFO - Server: class SecureWESADStrategy(FedAvg):
+2025-03-08 20:11:49,640 - INFO - Server: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_server.py", line 119, in SecureWESADStrategy
+2025-03-08 20:11:49,640 - INFO - Server: def decrypt_weights(self, encrypted_weights: List[Any]) -> List[np.ndarray]:
+2025-03-08 20:11:49,640 - INFO - Server: ^^^
+2025-03-08 20:11:49,640 - INFO - Server: NameError: name 'Any' is not defined. Did you mean: 'any'?
+2025-03-08 20:11:53,030 - INFO - Starting client for subject 2 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 2 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:11:55,038 - INFO - Starting client for subject 3 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 3 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:11:57,010 - INFO - Client-2: Traceback (most recent call last):
+2025-03-08 20:11:57,010 - INFO - Client-2: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:11:57,010 - INFO - Client-2: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:11:57,010 - INFO - Client-2: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:11:57,047 - INFO - Starting client for subject 4 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 4 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:11:58,762 - INFO - Client-3: Traceback (most recent call last):
+2025-03-08 20:11:58,762 - INFO - Client-3: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:11:58,762 - INFO - Client-3: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:11:58,762 - INFO - Client-3: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:11:59,055 - INFO - Starting client for subject 5 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 5 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:12:00,753 - INFO - Client-4: Traceback (most recent call last):
+2025-03-08 20:12:00,754 - INFO - Client-4: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:12:00,755 - INFO - Client-4: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:12:00,755 - INFO - Client-4: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:12:01,063 - INFO - Starting client for subject 6 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 6 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:12:02,686 - INFO - Client-5: Traceback (most recent call last):
+2025-03-08 20:12:02,686 - INFO - Client-5: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:12:02,686 - INFO - Client-5: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:12:02,686 - INFO - Client-5: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:12:03,072 - INFO - Starting client for subject 7 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 7 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:12:04,662 - INFO - Client-6: Traceback (most recent call last):
+2025-03-08 20:12:04,662 - INFO - Client-6: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:12:04,662 - INFO - Client-6: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:12:04,662 - INFO - Client-6: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:12:05,079 - INFO - Starting client for subject 8 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 8 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:12:06,655 - INFO - Client-7: Traceback (most recent call last):
+2025-03-08 20:12:06,656 - INFO - Client-7: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:12:06,656 - INFO - Client-7: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:12:06,656 - INFO - Client-7: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:12:07,087 - INFO - Starting client for subject 11 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 11 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:12:08,762 - INFO - Client-8: Traceback (most recent call last):
+2025-03-08 20:12:08,763 - INFO - Client-8: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:12:08,763 - INFO - Client-8: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:12:08,763 - INFO - Client-8: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:12:09,095 - INFO - Starting client for subject 13 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 13 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:12:10,717 - INFO - Client-11: Traceback (most recent call last):
+2025-03-08 20:12:10,717 - INFO - Client-11: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:12:10,717 - INFO - Client-11: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:12:10,717 - INFO - Client-11: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:12:11,102 - INFO - Starting client for subject 14 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 14 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:12:12,724 - INFO - Client-13: Traceback (most recent call last):
+2025-03-08 20:12:12,725 - INFO - Client-13: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:12:12,725 - INFO - Client-13: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:12:12,725 - INFO - Client-13: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:12:13,109 - INFO - Starting client for subject 15 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 15 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:12:14,654 - INFO - Client-14: Traceback (most recent call last):
+2025-03-08 20:12:14,655 - INFO - Client-14: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:12:14,655 - INFO - Client-14: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:12:14,655 - INFO - Client-14: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:12:15,116 - INFO - Starting client for subject 16 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 16 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:12:16,692 - INFO - Client-15: Traceback (most recent call last):
+2025-03-08 20:12:16,692 - INFO - Client-15: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:12:16,692 - INFO - Client-15: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:12:16,692 - INFO - Client-15: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:12:17,124 - INFO - Starting client for subject 17 with command: /opt/anaconda3/bin/python federated_client.py --subject_id 17 --window_size 60 --subset_size 0.2 --server_address localhost:8080 --use_homomorphic_encryption --use_differential_privacy --dp_epsilon 1.0 --noise_multiplier 1.1 --privacy_budget 5.0 --use_zero_knowledge_proofs
+2025-03-08 20:12:18,766 - INFO - Client-16: Traceback (most recent call last):
+2025-03-08 20:12:18,767 - INFO - Client-16: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:12:18,767 - INFO - Client-16: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:12:18,767 - INFO - Client-16: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:12:19,131 - INFO - Client for subject 2 completed
+2025-03-08 20:12:19,131 - INFO - Client for subject 3 completed
+2025-03-08 20:12:19,131 - INFO - Client for subject 4 completed
+2025-03-08 20:12:19,131 - INFO - Client for subject 5 completed
+2025-03-08 20:12:19,132 - INFO - Client for subject 6 completed
+2025-03-08 20:12:19,132 - INFO - Client for subject 7 completed
+2025-03-08 20:12:19,132 - INFO - Client for subject 8 completed
+2025-03-08 20:12:19,132 - INFO - Client for subject 11 completed
+2025-03-08 20:12:19,132 - INFO - Client for subject 13 completed
+2025-03-08 20:12:19,132 - INFO - Client for subject 14 completed
+2025-03-08 20:12:19,132 - INFO - Client for subject 15 completed
+2025-03-08 20:12:19,140 - INFO - Client for subject 16 completed
+2025-03-08 20:12:20,689 - INFO - Client-17: Traceback (most recent call last):
+2025-03-08 20:12:20,689 - INFO - Client-17: File "/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/federated_client.py", line 22, in <module>
+2025-03-08 20:12:20,689 - INFO - Client-17: from secure_components.homomorphic_encryption import PaillierEncryption
+2025-03-08 20:12:20,689 - INFO - Client-17: ModuleNotFoundError: No module named 'secure_components'
+2025-03-08 20:12:21,088 - INFO - Client for subject 17 completed
+2025-03-08 20:12:21,089 - INFO - Server completed successfully
+2025-03-08 20:12:21,089 - INFO - Analyzing federated learning results
+2025-03-08 20:12:21,097 - INFO - Global metrics summary:
+2025-03-08 20:12:21,098 - INFO -   train_loss: mean=0.9705, final=1.0171
+2025-03-08 20:12:21,098 - INFO -   train_accuracy: mean=0.8502, final=0.8503
+2025-03-08 20:12:21,098 - INFO -   val_loss: mean=1.8418, final=1.9230
+2025-03-08 20:12:21,098 - INFO -   val_accuracy: mean=0.4639, final=0.4496
+2025-03-08 20:12:21,098 - INFO -   test_loss: mean=1.6998, final=1.5740
+2025-03-08 20:12:21,099 - INFO -   test_accuracy: mean=0.6254, final=0.6230
+2025-03-08 20:12:21,099 - INFO - Analysis completed and reports generated
+2025-03-09 14:53:43,166 - INFO - Starting secure federated learning
+2025-03-09 14:53:43,166 - INFO - Security settings: HE=True, DP=True, ZKP=True
+2025-03-09 14:53:43,169 - INFO - Ensured directory exists: results
+2025-03-09 14:53:43,169 - INFO - Ensured directory exists: server_results
+2025-03-09 14:53:43,169 - INFO - Ensured directory exists: logs
+2025-03-09 14:53:43,169 - INFO - Setting minimum required clients to 2
+2025-03-09 14:53:43,169 - INFO - Starting server with command: /opt/anaconda3/bin/python -u scripts/federated_server.py --num_rounds 5 --min_clients 2 --fraction_fit 1.0 --fraction_evaluate 1.0 --use_homomorphic_encryption --use_differential_privacy --use_zero_knowledge_proofs
+2025-03-09 14:53:43,174 - INFO - Waiting up to 90 seconds for server to initialize...
+2025-03-09 14:53:43,186 - INFO - Server: /opt/anaconda3/bin/python: can't open file '/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/scripts/federated_server.py': [Errno 2] No such file or directory
+2025-03-09 14:53:43,188 - ERROR - Server process ended without becoming ready
+2025-03-09 14:53:43,189 - ERROR - Server failed to start properly
+2025-03-09 15:01:52,595 - INFO - Starting secure federated learning
+2025-03-09 15:01:52,596 - INFO - Security settings: HE=True, DP=True, ZKP=True
+2025-03-09 15:01:52,599 - INFO - Ensured directory exists: results
+2025-03-09 15:01:52,599 - INFO - Ensured directory exists: server_results
+2025-03-09 15:01:52,599 - INFO - Ensured directory exists: logs
+2025-03-09 15:01:52,599 - INFO - Setting minimum required clients to 2
+2025-03-09 15:01:52,599 - INFO - Starting server with command: /opt/anaconda3/bin/python -u scripts/federated_server.py --num_rounds 5 --min_clients 2 --fraction_fit 1.0 --fraction_evaluate 1.0 --use_homomorphic_encryption --use_differential_privacy --use_zero_knowledge_proofs
+2025-03-09 15:01:52,604 - INFO - Waiting up to 90 seconds for server to initialize...
+2025-03-09 15:01:52,616 - INFO - Server: /opt/anaconda3/bin/python: can't open file '/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/scripts/federated_server.py': [Errno 2] No such file or directory
+2025-03-09 15:01:52,618 - ERROR - Server process ended without becoming ready
+2025-03-09 15:01:52,619 - ERROR - Server failed to start properly
+2025-03-09 15:02:06,579 - INFO - Starting secure federated learning
+2025-03-09 15:02:06,579 - INFO - Security settings: HE=True, DP=True, ZKP=True
+2025-03-09 15:02:06,582 - INFO - Ensured directory exists: results
+2025-03-09 15:02:06,582 - INFO - Ensured directory exists: server_results
+2025-03-09 15:02:06,582 - INFO - Ensured directory exists: logs
+2025-03-09 15:02:06,582 - INFO - Setting minimum required clients to 2
+2025-03-09 15:02:06,582 - INFO - Starting server with command: /opt/anaconda3/bin/python -u scripts/federated_server.py --num_rounds 5 --min_clients 2 --fraction_fit 1.0 --fraction_evaluate 1.0 --use_homomorphic_encryption --use_differential_privacy --use_zero_knowledge_proofs
+2025-03-09 15:02:06,587 - INFO - Waiting up to 90 seconds for server to initialize...
+2025-03-09 15:02:06,599 - INFO - Server: /opt/anaconda3/bin/python: can't open file '/Users/ayesha/Desktop/Dessertation_Ahmed/Federated_learning_wesad/scripts/scripts/federated_server.py': [Errno 2] No such file or directory
+2025-03-09 15:02:06,601 - ERROR - Server process ended without becoming ready
+2025-03-09 15:02:06,602 - ERROR - Server failed to start properly

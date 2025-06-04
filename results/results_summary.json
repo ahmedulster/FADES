@@ -1,0 +1,63 @@
+{
+  "global_metrics": {
+    "train_loss": {
+      "mean": 140.9257309742972,
+      "final": 250.8576437143179
+    },
+    "train_accuracy": {
+      "mean": 0.6863302045143568,
+      "final": 0.4492383713905628
+    },
+    "val_loss": {
+      "mean": 0.4376131445169449,
+      "final": 0.4376131445169449
+    },
+    "val_accuracy": {
+      "mean": 0.8742800699339973,
+      "final": 0.6443793177604675
+    },
+    "test_accuracy": {
+      "mean": 0.8617762908466862,
+      "final": 0.6347726377157065
+    },
+    "homomorphic_encryption": {
+      "mean": 1.0,
+      "final": 1.0
+    },
+    "differential_privacy": {
+      "mean": 1.0,
+      "final": 1.0
+    },
+    "zkp_verification": {
+      "mean": 1.0,
+      "final": 1.0
+    }
+  },
+  "client_metrics": {
+    "accuracy": {
+      "mean": 0.6347726377157065,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "f1_score": {
+      "mean": 0.5470766462145773,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "precision": {
+      "mean": 0.5064342334664604,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "recall": {
+      "mean": 0.6347726347726348,
+      "min": 0.0,
+      "max": 1.0
+    }
+  },
+  "security_settings": {
+    "homomorphic_encryption": true,
+    "differential_privacy": true,
+    "zero_knowledge_proofs": true
+  }
+}
